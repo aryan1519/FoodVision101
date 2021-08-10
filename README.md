@@ -17,6 +17,6 @@ The model can be used in a user-friendly environment in which the user can simpl
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/61dtM5b)
+![App Screenshot](https://www.linkpicture.com/view.php?img=LPic6112bbb33d1101607837983)
 
 ![App Screenshot](https://ibb.co/8ck0xVh)
